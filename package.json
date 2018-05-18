@@ -1,0 +1,19 @@
+{
+  "name": "unit-test-sample",
+  "version": "1.0.0",
+  "description": "Just a unit test with using a simple function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliaconde/unit-test-sample.git"
+  },
+  "author": "Natália Condê",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nataliaconde/unit-test-sample/issues"
+  },
+  "homepage": "https://github.com/nataliaconde/unit-test-sample#readme"
+}
